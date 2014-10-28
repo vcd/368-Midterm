@@ -24,31 +24,38 @@ Blockquote
 /* =========
 Navigation
 * Code for list items  provided
-
-Anchor Links
-* padding: 10px 10px 10px 40px;
-* color on hover #E44D26
 ========= */
+
+/* DO NOT EDIT THIS RULE */
 nav li {
 	float: left;
 	list-style: none;
 	margin: 0 10px 0 10px;
 }
 
-/* Base link styling */
+/* Nav link & also visited state
+ * color: black
+ * text-transform: uppercase;
+ * padding: 10px 10px 10px 40px;
+*/
 
 
-/* on hover show home.png */
+/* Nav link hover state 
+   color: #E44D26;
+*/
 
 
-/* on hover show super.png */
+/* Home link on hover show home.png */
 
 
-/* on hover show html5.png */
+/* Super Friends link on hover show super.png */
+
+
+/* HTML5 Awesome link on hover show html5.png */
 
 
 /* =========
-Super Friends
+Super Friends Description (1st paragraph)
 * font-family: 'Open Sans', sans-serif;
 * border: 10px solid #fff;
 * text-indent: 32px;
