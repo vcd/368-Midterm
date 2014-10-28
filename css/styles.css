@@ -1,0 +1,70 @@
+/* =========
+Global Styling
+* font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+* bg.png file for background
+========= */
+body {
+	color: #333;
+}
+
+p {
+ 	line-height: 24px;
+}
+
+/* =========
+Blockquote
+* color #e44d26
+* font size 2em
+* font style italic
+* letter spacing 1px
+* text aligned center
+========= */
+
+
+/* =========
+Navigation
+* Code for list items  provided
+
+Anchor Links
+* padding: 10px 10px 10px 40px;
+* color on hover #E44D26
+========= */
+nav li {
+	float: left;
+	list-style: none;
+	margin: 0 10px 0 10px;
+}
+
+/* Base link styling */
+
+
+/* on hover show home.png */
+
+
+/* on hover show super.png */
+
+
+/* on hover show html5.png */
+
+
+/* =========
+Super Friends
+* font-family: 'Open Sans', sans-serif;
+* border: 10px solid #fff;
+* text-indent: 32px;
+========= */
+
+
+
+/* =========
+Footer Paragraphs
+* font: 10px/16px 'arial', sans-serif;
+========= */
+
+
+/* =========
+Helper Classes
+========= */
+.showgrid {
+	background: url("../img/grid-bg.png");
+}
